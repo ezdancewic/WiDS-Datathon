@@ -1,0 +1,13 @@
+---
+title: "WiDS-EDA"
+format: html
+editor: visual
+---
+```{r}
+library(tidyverse)
+```
+
+```{r}
+read_csv("training.csv")
+```
+
